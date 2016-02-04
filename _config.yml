@@ -1,0 +1,28 @@
+name: SanderDalhuisen
+favicon: null
+layout_spectrum: 0.3188411162700504
+typography_spectrum: 0.15840601758100092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5593192365486175
+  lightness: 0.33247766084969044
+  saturation: 0.4488782617263496
+  rhythmicContrast: 0.25396765512414277
+purpose: []
